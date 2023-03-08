@@ -1,0 +1,30 @@
+def circle_area(x):
+      return x * x * 3.14
+print(circle_area(3.0))
+
+
+def hello():
+    print('Hello, world')
+hello()
+
+
+def minimum(x,y):
+     if x < y:
+          return x
+     return y
+print(minimum(3,4))
+
+
+def cube(r):
+     return r * r * r
+print(cube(2))
+
+
+def sqr(x, n):
+     return x** n 
+print(sqr(2,3))
+
+def print_fave_inst():
+     instrument + input("whats your fave instrument?")
+     print("your least fave instrument:", instrument)
+    
