@@ -10,7 +10,7 @@ So for my chessboard I used this video I found on youtube "https://www.youtube.c
 
 So i had the idea of doing this:
 if (size > 8) {
-    console.log ("Too Big!!");
+    console.log ("not going to work");
 } else if (size = 8) {
     console.log(X)
 }
